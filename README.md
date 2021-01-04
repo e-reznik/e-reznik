@@ -3,7 +3,7 @@
 #### For those interested in statistics (like me):
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e-reznik&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&animation=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e-reznik&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&disable_animations=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-reznik&layout=compact" />
