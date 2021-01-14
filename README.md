@@ -1,4 +1,4 @@
-## Hi! My name is Evgenij Reznik. I'm a software developer from Hannover, Germany.
+## Hi! My name is Evgenij Reznik. <br /> I'm a software developer from Hannover, Germany.
 
 ### For those interested in statistics (like me):
 
@@ -10,7 +10,7 @@
 </a>
   
 ### Projects in Java
-Some of my private projects
+Some of my private projects:
 
 #### Document Processing
 - [Docx2PDF](https://github.com/e-reznik/Docx2PDF)
@@ -26,8 +26,7 @@ Some of my private projects
 - [Simple CLI Box Manager](https://github.com/e-reznik/Box-Manager)
 
 ### Other work
-[Captcha in PHP](https://github.com/e-reznik/Spam-Prevention)
+- [Captcha in PHP](https://github.com/e-reznik/Spam-Prevention)
 
 ### More
-
 You can find more information about me at: https://e-reznik.de.
