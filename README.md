@@ -21,9 +21,9 @@ Some of my private projects
 - [DocxToPDF](https://github.com/e-reznik/DocxToPdf) (archived)
 
 #### Fun & Games
-- [Simple CL Box Manager](https://github.com/e-reznik/Box-Manager)
 - [Gnome Background Changer](https://github.com/e-reznik/GnomeBackgroundChanger)
   - [GUI](https://github.com/e-reznik/GnomeBackgroundChanger-Gui)
+- [Simple CLI Box Manager](https://github.com/e-reznik/Box-Manager)
 
 ### Other work
 [Captcha in PHP](https://github.com/e-reznik/Spam-Prevention)
