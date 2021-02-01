@@ -26,5 +26,7 @@ Some of my private projects:
 ### Other work
 - [Captcha in PHP](https://github.com/e-reznik/Spam-Prevention)
 
-### More
-You can find more information about me at: https://e-reznik.de.
+### Blog
+I created my first blog post about the topic: [How to parse and map a Docx file with Java](https://e-reznik.de/how-to-parse-and-map-a-docx-file-with-java/). The corresponding example project you can find here: https://github.com/e-reznik/DocxJavaMapper-example.
+
+More topics to follow...
