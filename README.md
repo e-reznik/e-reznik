@@ -10,6 +10,9 @@
 ### Projects in Java
 Some of my private projects:
 
+#### Miscellaneous 
+- [LinkedIn-Learning-Downloader](https://github.com/e-reznik/LinkedIn-Learning-Downloader)
+
 #### Document Processing
 - [Docx2PDF](https://github.com/e-reznik/Docx2PDF)
   - [GUI with Swing](https://github.com/e-reznik/Docx2Pdf-Gui-Swing)
