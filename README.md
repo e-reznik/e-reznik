@@ -19,7 +19,7 @@ Some of my private projects:
   - [GUI with JavaFX](https://github.com/e-reznik/Docx2Pdf-Gui-JavaFx)
 - [DocxJavaMapper](https://github.com/e-reznik/DocxJavaMapper)
 - [DocxFieldsMerger](https://github.com/e-reznik/DocxFieldsMerger)
-- [DocxToPDF](https://github.com/e-reznik/DocxToPdf) (archived)
+- [DocxToPDF](https://github.com/e-reznik/DocxToPdf) *(archived)*
 
 #### Fun & Games
 - [Gnome Background Changer](https://github.com/e-reznik/GnomeBackgroundChanger)
@@ -27,7 +27,7 @@ Some of my private projects:
 - [Simple CLI Box Manager](https://github.com/e-reznik/Box-Manager)
 
 ### Other work
-- [Captcha in PHP](https://github.com/e-reznik/Spam-Prevention)
+- [Captcha in PHP](https://github.com/e-reznik/Spam-Prevention) *(archived)*
 
 ### Blog
 I created my first blog post about the topic: [How to parse and map a Docx file with Java](https://e-reznik.de/how-to-parse-and-map-a-docx-file-with-java/). The corresponding example project you can find here: https://github.com/e-reznik/DocxJavaMapper-example.
