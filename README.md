@@ -1,11 +1,12 @@
 ## Hi! My name is Evgenij Reznik. <br /> I'm a software developer from Hannover, Germany.
 
+<!---
 ### For those interested in statistics (like me):
-
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=e-reznik&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&disable_animations=true&custom_title=Repo Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-reznik" />
 </p>
+-->
   
 ### Projects in Java
 Some of my private projects:
@@ -24,7 +25,7 @@ Some of my private projects:
 #### Fun & Games
 - [Gnome Background Changer](https://github.com/e-reznik/GnomeBackgroundChanger)
   - [GUI](https://github.com/e-reznik/GnomeBackgroundChanger-Gui)
-- [Simple CLI Box Manager](https://github.com/e-reznik/Box-Manager)
+- [Simple CLI Boxing Manager](https://github.com/e-reznik/Box-Manager)
 
 ### Other work
 - [Captcha in PHP](https://github.com/e-reznik/Spam-Prevention) *(archived)*
