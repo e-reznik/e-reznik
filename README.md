@@ -1,5 +1,9 @@
 ## Hi! My name is Evgenij Reznik. <br /> I'm a software developer from Hannover, Germany.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-reznik&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-reznik&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 ### For those interested in statistics (like me):
 <p float="left">
