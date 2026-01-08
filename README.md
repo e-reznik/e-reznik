@@ -1,40 +1,25 @@
-## Hi! My name is Evgenij Reznik. <br /> I'm a software developer from Hannover, Germany.
+## Hi, I'm Evgenij Reznik
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-reznik&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-reznik&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+I'm a software developer based in Hannover, Germany, with a primary focus on Java and backend development.
 
+This profile contains a selection of personal projects and technical experiments.
 
-<!---
-### For those interested in statistics (like me):
-<p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e-reznik&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&disable_animations=true&custom_title=Repo Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-reznik" />
-</p>
--->
-  
-### Projects in Java
-Some of my private projects:
+## Projects
 
-#### Miscellaneous 
-- [LinkedIn-Learning-Downloader](https://github.com/e-reznik/LinkedIn-Learning-Downloader)
+A curated selection of my public projects is pinned below. Older and archived projects can be found in the repositories list.
 
-#### Document Processing
-- [Docx2PDF](https://github.com/e-reznik/Docx2PDF)
-  - [GUI with Swing](https://github.com/e-reznik/Docx2Pdf-Gui-Swing)
-  - [GUI with JavaFX](https://github.com/e-reznik/Docx2Pdf-Gui-JavaFx)
-- [DocxJavaMapper](https://github.com/e-reznik/DocxJavaMapper)
-- [DocxFieldsMerger](https://github.com/e-reznik/DocxFieldsMerger)
-- [DocxToPDF](https://github.com/e-reznik/DocxToPdf) *(archived)*
+My projects often focus on:
+- document processing (DOCX, PDF, XML)
+- Java tooling and libraries
+- small utilities built to explore specific technical problems
 
-#### Fun & Games
-- [Gnome Background Changer](https://github.com/e-reznik/GnomeBackgroundChanger)
-  - [GUI](https://github.com/e-reznik/GnomeBackgroundChanger-Gui)
-- [Simple CLI Boxing Manager](https://github.com/e-reznik/Box-Manager)
+## About
 
-### Other work
-- [Captcha in PHP](https://github.com/e-reznik/Spam-Prevention) *(archived)*
+This GitHub profile mainly reflects side projects and experiments. My professional work focuses on backend systems, data processing, and building reliable software in a team environment.
 
-### Blog
-I created my first blog post about the topic: [How to parse and map a Docx file with Java](https://e-reznik.de/how-to-parse-and-map-a-docx-file-with-java/). The corresponding example project you can find here: https://github.com/e-reznik/DocxJavaMapper-example.
+More up-to-date information can be found on my [personal website](https://e-reznik.de/) or [LinkedIn](https://www.linkedin.com/in/evgenij-reznik/).
 
-More topics to follow...
+## GitHub stats
+
+[![Evgenij's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=e-reznik&hide_title=true&hide=contribs)](https://github.com/e-reznik)
+[![Evgenij's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=e-reznik&layout=donut&hide_title=true)](https://github.com/e-reznik)
